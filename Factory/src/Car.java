@@ -2,6 +2,9 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
+//Создать объект класса Автомобиль, используя классы Колесо, Двигатель.
+//Методы: ехать, заправляться, менять колесо, вывести на консоль марку автомобиля.
+
 public class Car {
     private String brand;
     private String model;
